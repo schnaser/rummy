@@ -48,7 +48,7 @@ Suppose it is Player 2's turn and she draws a 7♠. She can play the card on her
 
 #### Opponent's Melds
 
-Suppose Player 2 draws a 6♠. She can lay the card on her side of the table, scoring 5 points. Then she must discard one card from her hand and it is Player 1's turn.
+Suppose Player 2 draws a 6♠. She can lay the card on her side of the table, scoring 5 points. Then she must discard one card from her hand and it is Player 1's turn. If Player 1 draws a 7♠, he may score that card as well.
 
 #### Wild Cards
 
