@@ -69,7 +69,7 @@ Scoring is as follows:
 ### On The Table (+)
 | Card | Points |
 |--|--|
-| 3-9 | 5
+| 3-9 | 5 |
 | 10-K | 10 |
 | A | 15 if used in a set |
 | A | 10 if used in a run |
