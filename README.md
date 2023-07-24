@@ -74,7 +74,7 @@ Scoring is as follows:
 | 10-K | 10 |
 | A | 15 if used in a set |
 | A | 10 if used in a run |
-| 2, Joker | Takes the value of the card replaced if used to replace a card |
+| 2, Joker | Value of the card replaced |
 | 2, Joker | 25 if used in a set of **only** other wild cards |
 
 ### In The Hand (-)
