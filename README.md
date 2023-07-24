@@ -67,6 +67,7 @@ Once a player has no more cards remaining, the hand is over and the score is cou
 Scoring is as follows:
 
 ### On The Table (+)
+
 | Card | Points |
 |--|--|
 | 3-9 | 5 |
