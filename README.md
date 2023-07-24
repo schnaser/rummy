@@ -30,12 +30,17 @@ For example, suppose a player starts off with 3-4-5-6-7-8-9 all in Clubs. The pl
 
 Scoring can also be done during the course of the game by building off of sets or runs already laid on the table. For example, suppose the table looks like this:
 
-**Player 1
-3♠ 4♠ 5♠ 
-A♣ A♥ A♦**
+**Player 1**
 
-**Player 2
-7♣ 7♥ 7♦**
+**3♠ 4♠ 5♠**
+
+**A♣ A♥ A♦**
+
+
+
+**Player 2**
+
+**7♣ 7♥ 7♦**
 
 #### Own Melds
 
@@ -62,7 +67,7 @@ Once a player has no more cards remaining, the hand is over and the score is cou
 Scoring is as follows:
 
 ### On The Table (+)
-|Card| Points |
+| Card | Points |
 |--|--|
 | 3-9 | 5
 | 10-K | 10 |
@@ -73,9 +78,9 @@ Scoring is as follows:
 
 ### In The Hand (-)
 
-|Card| Points |
+| Card | Points |
 |--|--|
-| 3-9 | -5
+| 3-9 | -5 |
 | 10-K | -10 |
 | A | -15 |
 | 2, Joker | -25 |
