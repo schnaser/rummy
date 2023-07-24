@@ -58,7 +58,7 @@ Suppose Player 2 draws a 2♠. She cannot play the 2♠ on its own off of Player
 
 Suppose Player 2 draws a 6♠. Also suppose she has had one too many Bloody Marys and does not notice that her 6♠ matches one of her opponent's melds. She plays her turn as normal, discarding the 6♠. Player 1 can then call **"Rummy!"** and pick the 6♠ from the discard pile and play it on his run. Then he can play his turn as normal. Which is to say, **Rummy** is free points and does not take the place of Player 1's turn. 
 
-Once the player is done scoring, he or she discards one card face up on the discard pile. This can be skipped if the player has no remaining cards to discard; i.e. all cards were used to score points.
+Once the player is done scoring, he or she discards one card face up on the discard pile. This is skipped if the player has no remaining cards to discard; i.e. all cards were used to score points.
 
 ## Hand End
 
