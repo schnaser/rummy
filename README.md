@@ -88,4 +88,4 @@ Scoring is as follows:
 
 ## Game End
 
-The game is over when a player reaches 500 points. If both players reach 500 simultaneously, the player with the higher score is the winner. If there is a tie, play continues until the tie is broken.
+The game is over when a player reaches 500 points. If both players reach 500 simultaneously, the player that finished their turn with no cards remaining (went out) is the winner..
