@@ -19,7 +19,7 @@ Once the player has drawn, he or she has the choice of laying down a set or run 
 
 ### New Melds
 
-Set = Same card, different suit, i.e. 7♣ 7♥ 7♦
+Set = Same card, different suit, i.e. 7♣ 7♡ 7♢
 Run = same suit, different card, i.e. 3♠ 4♠ 5♠
 
 Runs do not "wrap around", meaning the following is not valid: K♠ A♠ 2♠ Aces are high *only*, thus A♠ 2♠ 3♠ is not valid. Any number of valid sets or runs can be laid at one time. There must be at least two non-wild cards in the initial lay.
@@ -34,17 +34,17 @@ Scoring can also be done during the course of the game by building off of sets o
 
 **3♠ 4♠ 5♠**
 
-**A♣ A♥ A♦**
+**A♣ A♡ A♢**
 
 
 
 **Player 2**
 
-**7♣ 7♥ 7♦**
+**7♣ 7♡ 7♢**
 
 #### Own Melds
 
-Suppose it is Player 2's turn and she draws a 7♠. She can play the card on her existing set to form 7♣ 7♥ 7♦ 7♠ and discard one card from her hand. 
+Suppose it is Player 2's turn and she draws a 7♠. She can play the card on her existing set to form 7♣ 7♡ 7♢ 7♠ and discard one card from her hand. 
 
 #### Opponent's Melds
 
@@ -52,7 +52,7 @@ Suppose Player 2 draws a 6♠. She can lay the card on her side of the table, sc
 
 #### Wild Cards
 
-Suppose Player 2 draws a 2♠. She cannot play the 2♠ on its own off of Player 1's A♣ A♥ A♦. She must append the wild card to one of her own melds.
+Suppose Player 2 draws a 2♠. She cannot play the 2♠ on its own off of Player 1's A♣ A♡ A♢. She must append the wild card to one of her own melds.
 
 #### Rummy
 
