@@ -17,7 +17,7 @@ The player has the choice of taking one card from the top of the deck, or pickin
 
 Once the player has drawn, he or she has the choice of laying down a set or run of at least 3 cards to score points. 2's and Jokers are wild.
 
-### Melds
+### New Melds
 
 Set = Same card, different suit, i.e. 7♣ 7♥ 7♦
 Run = same suit, different card, i.e. 3♠ 4♠ 5♠
@@ -26,7 +26,7 @@ Runs do not "wrap around", meaning the following is not valid: K♠ A♠ 2♠ Ac
 
 For example, suppose a player starts off with 3-4-5-6-7-8-9 all in Clubs. The player draws a card, lays his run he started off with, and discards the drawn card. The dealer has not had a turn. The terminology used for the dealer in this case is *"unlucky."*
 
-### Scoring off of existing melds
+### Existing Melds
 
 Scoring can also be done during the course of the game by building off of sets or runs already laid on the table. For example, suppose the table looks like this:
 
